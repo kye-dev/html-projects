@@ -1,2 +1,5 @@
-# html-projects
-A repository that is utilized for my HTML projects
+### Hi 👋, my name is Kye, and welcome to #html-projects
+
+This repository will be utilized for HTML projects
+
+****
